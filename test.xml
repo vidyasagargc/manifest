@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="ssh://git@github.com/gcvidyasagar/" name="jenkins_test" alias="origin"/>
+  <remote fetch="ssh://git@github.com/vidyasagargc/" name="jenkins_test" alias="origin"/>
   <default remote="jenkins_test" revision="main" sync-j="4"/>
 
   <!-- repositories -->
